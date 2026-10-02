@@ -4,11 +4,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali8hsn)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alihsn@utexas.edu)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=googlechrome&logoColor=white)](https://alihsn.is-a.dev)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=googlechrome&logoColor=white)](https://ali8hsn.com/)
 
 ## About
 
-Sophomore in Electrical & Computer Engineering at UT Austin on a full-tuition merit scholarship. Currently an SDE Intern at Amazon Lab126 building physics-informed ML for display color prediction, and founder of **Lonyst**, an AI loan-screening platform for banks and credit unions. Joining Atom Investors as a Quantitative Trading Intern in Fall 2026. I like building ML systems, real-time infrastructure, and AI agents that solve real problems.
+Electrical & Computer Engineering at UT Austin on a full-tuition merit scholarship. Currently an SDE Intern at Amazon Lab126 building physics-informed ML for display color prediction, and founder of **Coordigent**. Currently, at Atom Investors as a Quantitative Trading Intern. I like building ML systems, real-time infrastructure, and AI agents that solve real problems.
 
 ## Featured Projects
 
@@ -23,7 +23,7 @@ Sophomore in Electrical & Computer Engineering at UT Austin on a full-tuition me
 
 ## Experience
 
-- **Atom Investors** — Quantitative Trading Intern (Fall 2026, incoming)
+- **Atom Investors** — Quantitative Trading Intern
 - **Amazon Lab126** — SDE Intern: Gaussian Process Regression + Bayesian optimization for display color prediction (Summer 2026)
 - **Lonyst** — Founder & CEO: AI loan screening for banks and credit unions
 - **Goldman Sachs** — Emerging Leaders Program, Engineering track
